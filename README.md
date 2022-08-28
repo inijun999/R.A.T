@@ -38,8 +38,6 @@
   - *Discord API* for sending messages to webhook.
 
 ## Slick Embed Look
-> [Experimental] Also shows the networth now.
-
 ![embed.png](.github/embed.png)
 
 ## Setup
