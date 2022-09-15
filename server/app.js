@@ -1,7 +1,7 @@
 //config params
 const
-    usingDiscord = true,
-    usingMongoDB = true
+    usingDiscord = false,
+    usingMongoDB = false
 
 //setup
 require("dotenv").config()
